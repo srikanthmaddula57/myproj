@@ -6,3 +6,6 @@ https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-j
 
 
 https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/
+
+
+https://www.softwaretestinghelp.com/devops-tutorials/
